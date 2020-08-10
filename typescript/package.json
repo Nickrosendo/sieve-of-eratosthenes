@@ -1,0 +1,17 @@
+{
+  "name": "sieve-of-erastosthenes",
+  "version": "1.0.0",
+  "description": "Prime number finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "Nicolas Rosendo",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.7"
+  }
+}
